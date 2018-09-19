@@ -22,3 +22,8 @@ fibo(10)
 fibo(1)
 fibo(0)
 fibo(3.5)
+
+#Opgave 2
+# 2.1
+data()
+data(cars)
